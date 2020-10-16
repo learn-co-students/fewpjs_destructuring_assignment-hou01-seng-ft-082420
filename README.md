@@ -1,4 +1,4 @@
-# Destructuring Assignment
+git@github.com:BenLooper/fewpjs_destructuring_assignment-hou01-seng-ft-082420.git# Destructuring Assignment
 
 ## Learning Goals
 
